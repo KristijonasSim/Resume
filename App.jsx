@@ -28,8 +28,6 @@ const App = () => {
           <h1 className='h1_style'>Connect</h1>
           <p>04</p>
       </div>
-
-
     </div>
 </div>
   )
