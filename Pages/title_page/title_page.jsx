@@ -1,5 +1,5 @@
 import React from 'react'
-import './work_page.css'
+import './title_page.css'
 const WorkPages = () => {
   return (
     <div className='containeris'>

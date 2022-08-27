@@ -1,10 +1,11 @@
 import React from 'react'
 import './Header.css'
 import { MdClose } from 'react-icons/md'
-import { Link } from 'react-router-dom'
+
+
 const Header = () => {
   return (
-    <div className='containerd'>
+    <div className='top_header'>
       <div>
         <p>
         {`<a>RESUME@<a>`}

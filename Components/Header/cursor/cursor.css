@@ -18,7 +18,7 @@
 }
 
 .cursor--link-hovered {
-  transform: translate(-50%, -50%) scale(1.25);
+  transform: translate(-50%, -50%) scale(1.15);
   background-color: white;
   color: rgb(0, 0, 0);
 }

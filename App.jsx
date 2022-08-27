@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
-import Cursor from './cursor'
-import Header from './Components/Header/Header'
+import Cursor from './Components/Header/cursor/cursor'
+import Header from './Pages/title_page/title_page_header/Header'
 import { Link } from 'react-router-dom'
 const App = () => {
 
@@ -29,7 +29,6 @@ const App = () => {
           <p>04</p>
       </div>
 
-      <div class='cursor' id="cursor"></div>
 
     </div>
 </div>
