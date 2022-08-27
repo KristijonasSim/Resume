@@ -1,0 +1,19 @@
+html,
+body {
+  font-family: "Space Mono", sans-serif;
+  color: #fff;
+  margin: 0;
+}
+
+html *,
+body * {
+    text-decoration: none;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
